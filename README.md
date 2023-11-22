@@ -1,6 +1,6 @@
 # Seeed-MR60BHA1-Presence-Breathing-and-Heartbeat-Sensing
 
-![alt text](https://hackster.imgix.net/uploads/attachments/1647795/bd_frWn3vOYrw.jpg?auto=compress%2Cformat&w=740&h=555&fit=max)
+![alt text](https://hackster.imgix.net/uploads/attachments/1651278/_L4AO8VIYup.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
 
 The MR60BHA1 60GHz mmWave Module is a versatile sensor that utilizes Frequency Modulation Continuous Wave (FMCW) detection to accurately measure breathing rate and heart rate, ensuring a completely private and secure environment, free from external interference. Equipped with a built-in standard algorithm and onboard antenna, the unit delivers simultaneous signal output with exceptional precision. It serves as an ideal solution for developing high-accuracy, self-regulating, privacy-protected, and secure biotic radar systems in consumer electronics, healthcare, and industrial applications.
 
@@ -43,11 +43,10 @@ To activate the automation system based on human presence, the human presence de
 
 The entire project is powered by a 12-volt DC power adapter. Considering the power requirements of the sensors, microcontroller, and other components, the voltage is regulated to 5 volts using a 7805 voltage regulator and to 3.3 volts using an AMS1117 voltage regulator.
 
-![alt text](https://hackster.imgix.net/uploads/attachments/1650491/11_4Rnp3gPLnN.JPG?auto=compress%2Cformat&w=740&h=555&fit=max)
+![alt text](https://hackster.imgix.net/uploads/attachments/1651031/nextpcb_4r1pEG3pxS.JPG?auto=compress%2Cformat&w=740&h=555&fit=max)
 
 This project was successfully completed because of the help and support from [NextPCB](https://www.nextpcb.com/). Guys if you have a PCB project, please visit their website and get exciting discounts and coupons.
 
-NextPCB offers high-quality, reliable PCB starting at $1.9, and multilayer starting at $6.9. Also, everyone can enjoy free [PCB assembly](https://www.nextpcb.com/) for 5 boards!
+NextPCB offers high-quality, reliable PCB starting at $1.9, and multilayer starting at $6.9. Also, everyone can enjoy free [PCB assembly](https://www.nextpcb.com/) for 5 boards! Also, NextPCB is having a year end sale in which anyone can register through their website and get a $30 Coupon which can be used for ordering PCBs.
 
-Also, Try HQDFM free online [PCB Gerber viewer](https://www.nextpcb.com/free-online-gerber-viewer.html) to check your PCB design and avoid costly errors.
-
+You can also try HQDFM free online [PCB Gerber viewer](https://www.nextpcb.com/free-online-gerber-viewer.html) to check your PCB design and avoid costly errors.
